@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
     private EditText mEdit_push;
     private EditText mEdit_play;
 
-    private String mPush_url = "rtmp://10.1.100.110:7935/iev/123";
-    private String mPlay_url = "rtmp://10.1.100.110:7935/iev/123";
+    private String mPush_url = "rtmp://121.196.157.174:1935/myapp/mystream";
+    private String mPlay_url = "rtmp://121.196.157.174:1935/myapp/mystream";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
